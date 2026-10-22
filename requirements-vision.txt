@@ -1,0 +1,4 @@
+# OPTIONAL: only needed for photo-based food recognition. Manual logging works without these.
+# CPU-only PyTorch is sufficient. See README for download instructions.
+torch>=2.2
+transformers>=4.40

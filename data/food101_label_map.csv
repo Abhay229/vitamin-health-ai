@@ -1,0 +1,9 @@
+model_label,food_id,match_quality,note
+omelette,egg_boiled,approximate,Egg-based dish; B12 from the egg only. Added fat/ingredients not modelled.
+deviled_eggs,egg_boiled,approximate,Egg-based dish.
+grilled_salmon,salmon_farmed_cooked,approximate,Species and preparation may differ.
+chicken_curry,chicken_curry,approximate,No verified B12 value stored for curries; reported as unknown unless a label value is entered.
+chicken_wings,chicken_breast_roasted,approximate,Cut differs from breast; confirm or choose manually.
+fried_rice,rice_cooked,approximate,Rice component only; egg/meat/vegetable additions are not recognised.
+hummus,chickpeas_cooked,approximate,Chickpea component only.
+falafel,chickpeas_cooked,approximate,Chickpea component only.
